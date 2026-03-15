@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Afrid" width="100%" />
+<img src="Afrid (1).jpg" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shaik Afrid</h1>
 <h3 align="center">🚀 MERN Stack Developer </h3>
